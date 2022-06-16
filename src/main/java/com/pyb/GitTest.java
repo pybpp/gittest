@@ -9,6 +9,8 @@ public class GitTest {
         System.out.println("HELLO Test");
         
         System.out.println("拉取代码");
+
+        System.out.println("nihao githb");
         
         
     }
