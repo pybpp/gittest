@@ -7,5 +7,9 @@ public class GitTest {
         System.out.println("HELLO GIT3");
         System.out.println("HELLO master");
         System.out.println("HELLO Test");
+        
+        System.out.println("拉取代码");
+        
+        
     }
 }
